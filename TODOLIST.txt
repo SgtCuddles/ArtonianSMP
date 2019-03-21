@@ -1,1 +1,2 @@
-add advent of ascension ores to mining dimension of aroma's mining dimension
+add advent of ascension ores to mining dimension of aroma's mining dimension (done)
+check if projectE armor blocks all incoming player damage ()
