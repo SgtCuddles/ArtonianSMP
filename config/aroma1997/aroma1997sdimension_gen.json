@@ -33,11 +33,61 @@
 		"type": "oreGen",
 		"identifier": "sapphire_ore",
 		"enabled": true,
-		"amount": 3.0,
-		"size": 2,
+		"amount": 2.0,
+		"size": 4,
 		"minHeight": 1,
 		"maxHeight": 9,
-		"ore": "nevermine:oreSapphire"
+		"ore": "aoa3:Sapphire_ore"
+	},
+	{
+		"type": "oreGen",
+		"identifier": "jade_ore",
+		"enabled": true,
+		"amount": 2.0,
+		"size": 4,
+		"minHeight": 1,
+		"maxHeight": 19,
+		"ore": "aoa3:Jade_ore"
+	},
+	{
+		"type": "oreGen",
+		"identifier": "limonite_ore",
+		"enabled": true,
+		"amount": 3.0,
+		"size": 12,
+		"minHeight": 1,
+		"maxHeight": 29,
+		"ore": "aoa3:Limonite_ore"
+	},
+	{
+		"type": "oreGen",
+		"identifier": "rosite_ore",
+		"enabled": true,
+		"amount": 2.0,
+		"size": 6,
+		"minHeight": 1,
+		"maxHeight": 29,
+		"ore": "aoa3:Rosite_ore"
+	},
+	{
+		"type": "oreGen",
+		"identifier": "runium_ore",
+		"enabled": true,
+		"amount": 3.0,
+		"size": 6,
+		"minHeight": 1,
+		"maxHeight": 19,
+		"ore": "aoa3:Runium_ore"
+	},
+	{
+		"type": "oreGen",
+		"identifier": "amethyst_ore",
+		"enabled": true,
+		"amount": 4.0,
+		"size": 6,
+		"minHeight": 1,
+		"maxHeight": 39,
+		"ore": "aoa3:amethyst_ore"
 	},
 	{
 		"type": "oreGen",
