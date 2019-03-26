@@ -1,4 +1,64 @@
 {
-  "entries": [],
-  "__comment": "Use the in-game commands to edit this file"
+  "entries": [
+    {
+      "item": "aoa3:limonite_ingot|0",
+      "emc": 256
+    },
+    {
+      "item": "aoa3:rusted_iron_ingot|0",
+      "emc": 256
+    },
+    {
+      "item": "aoa3:jade_ingot|0",
+      "emc": 8192
+    },
+    {
+      "item": "aoa3:amethyst_ingot|0",
+      "emc": 8192
+    },
+    {
+      "item": "aoa3:sapphire_ingot|0",
+      "emc": 16384
+    },
+    {
+      "item": "aoa3:emberstone_ingot|0",
+      "emc": 20000
+    },
+    {
+      "item": "aoa3:rosite_ingot|0",
+      "emc": 16384
+    },
+    {
+      "item": "mekanism:controlcircuit|0",
+      "emc": 576
+    },
+    {
+      "item": "aoa3:holly_top_petals|0",
+      "emc": 75
+    },
+    {
+      "item": "aoa3:holly_top_seeds|0",
+      "emc": 26
+    },
+    {
+      "item": "aoa3:gold_coin|0",
+      "emc": 4056
+    },
+    {
+      "item": "mekanism:otherdust|0",
+      "emc": 8192
+    },
+    {
+      "item": "aoa3:copper_coin|0",
+      "emc": 128
+    },
+    {
+      "item": "aoa3:silver_coin|0",
+      "emc": 1024
+    },
+    {
+      "item": "aoa3:runium_chunk|0",
+      "emc": 64
+    }
+  ]
 }
